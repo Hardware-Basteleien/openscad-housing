@@ -2,6 +2,10 @@
 Parametrisches OpenSCAD-Projekt aus meinem YouTube-Video.
 Entstanden im Rahmen meines YouTube-Videos.
 
+Enthaltene Gehäuse:
+housing_SPDIF.scad
+housing_uebertrager.scad
+
 🎥 **YouTube-Video:**  
 👉 https://www.youtube.com/watch?v=my1QPbUrotU
 
